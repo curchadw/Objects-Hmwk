@@ -91,7 +91,7 @@ for (i = 0; i < listOfMovies.genres.length; i++){
 
 console.log(` Not Jessy's favorite genres: ${notJessy}`)
 
-
+//Need to revisti this code
 // for (i = 0; i < listOfMovies.genres.length; i++){
 //   for (j = 0; j < listOfMovies.favourites.length; j++){
 //     if(listOfMovies.genres[i] === listOfMovies.favourites[j].genre ){
